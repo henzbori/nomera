@@ -5,20 +5,20 @@
     "main.js.map": "/nomera/static/js/main.b12be756.chunk.js.map",
     "runtime-main.js": "/nomera/static/js/runtime-main.3d55e670.js",
     "runtime-main.js.map": "/nomera/static/js/runtime-main.3d55e670.js.map",
-    "static/css/2.31461e4f.chunk.css": "/nomera/static/css/2.31461e4f.chunk.css",
+    "static/css/2.6d7c7915.chunk.css": "/nomera/static/css/2.6d7c7915.chunk.css",
     "static/js/2.6ab051b6.chunk.js": "/nomera/static/js/2.6ab051b6.chunk.js",
     "static/js/2.6ab051b6.chunk.js.map": "/nomera/static/js/2.6ab051b6.chunk.js.map",
     "static/js/3.1629ba87.chunk.js": "/nomera/static/js/3.1629ba87.chunk.js",
     "static/js/3.1629ba87.chunk.js.map": "/nomera/static/js/3.1629ba87.chunk.js.map",
     "index.html": "/nomera/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/nomera/static/css/2.31461e4f.chunk.css.map",
+    "static/css/2.6d7c7915.chunk.css.map": "/nomera/static/css/2.6d7c7915.chunk.css.map",
     "static/css/main.f3ba7854.chunk.css.map": "/nomera/static/css/main.f3ba7854.chunk.css.map",
     "static/js/2.6ab051b6.chunk.js.LICENSE.txt": "/nomera/static/js/2.6ab051b6.chunk.js.LICENSE.txt",
     "static/media/App.css": "/nomera/static/media/LuckiestGuy-Regular.04dea529.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.3d55e670.js",
-    "static/css/2.31461e4f.chunk.css",
+    "static/css/2.6d7c7915.chunk.css",
     "static/js/2.6ab051b6.chunk.js",
     "static/css/main.f3ba7854.chunk.css",
     "static/js/main.b12be756.chunk.js"
